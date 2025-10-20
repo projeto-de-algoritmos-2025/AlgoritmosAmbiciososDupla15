@@ -34,6 +34,7 @@ Repositório destinado ao trabalho de Algoritmos Ambiciosos da disciplina de Pro
 [Primeiro Exercício 632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?source=submission-ac)
 
 ---
+
 <img width="1346" height="557" alt="image" src="assets/exercicio1.1.jpg/>
 <img width="1346" height="557" alt="image" src="assets/exercicio1.2.jpg/>
 
