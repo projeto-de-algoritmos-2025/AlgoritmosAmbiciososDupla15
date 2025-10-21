@@ -38,15 +38,17 @@ Repositório destinado ao trabalho de Algoritmos Ambiciosos da disciplina de Pro
 
 ---
 
-[Segundo exercício (Difícil) - COLOQUE O NOME AQUI](LINK_DO_EXERCICIO_2)
+[Segundo exercício (Difícil) - Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
-<img width="900" alt="Submissão 2" src="assets/NOME_DA_IMAGEM_2.jpg" />
+<img width="1920" height="1001" alt="Captura de imagem_20251020_161133" src="https://github.com/user-attachments/assets/4d3df31a-8c30-460c-903d-e15e67f91ec5" />
+
 
 ---
 
-[Terceiro exercício (Médio) - COLOQUE O NOME AQUI](LINK_DO_EXERCICIO_3)
+[Terceiro exercício (Médio) - Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 
-<img width="900" alt="Submissão 3" src="assets/NOME_DA_IMAGEM_3.jpg" />
+
+<img width="1920" height="996" alt="Captura de imagem_20251020_161117" src="https://github.com/user-attachments/assets/39ec5b8c-9175-4410-bcf5-a523c8113d26" />
 
 ---
 
