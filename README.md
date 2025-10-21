@@ -27,23 +27,27 @@ Repositório destinado ao trabalho de Algoritmos Ambiciosos da disciplina de Pro
 ### Apresentação
 
 [Link da apresentação]()
+
 ---
 ### Screenshots de submissões
-![alt text]()
 
 [Primeiro Exercício 632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?source=submission-ac)
 
+<img width="900" alt="Submissão 1 - Parte 1" src="assets/exercicio1.1.jpg" />
+<img width="900" alt="Submissão 1 - Parte 2" src="assets/exercicio1.2.jpg" />
+
 ---
 
-<img width="1346" height="557" alt="image" src="assets/exercicio1.1.jpg/>
-<img width="1346" height="557" alt="image" src="assets/exercicio1.2.jpg/>
+[Segundo exercício (Difícil) - COLOQUE O NOME AQUI](LINK_DO_EXERCICIO_2)
 
-[Segundo exercício (Difícil) -]()
+<img width="900" alt="Submissão 2" src="assets/NOME_DA_IMAGEM_2.jpg" />
+
 ---
 
-<img width="1318" height="545" alt="image" src="" />
+[Terceiro exercício (Médio) - COLOQUE O NOME AQUI](LINK_DO_EXERCICIO_3)
 
-[Terceiro exercício (Médio) -](/)
+<img width="900" alt="Submissão 3" src="assets/NOME_DA_IMAGEM_3.jpg" />
+
 ---
 
 ### Linguagem
